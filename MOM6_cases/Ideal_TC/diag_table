@@ -2,13 +2,14 @@
 1900 1 1 0 0 0
 
 "ocean_hourly",            1, "hours",   1, "days", "time"
+"ocean_daily",            1, "days",   1, "days", "time"
 
 "ocean_model","SSV","SSV","ocean_hourly","all", "mean", "none",2
 "ocean_model","SSU","SSU","ocean_hourly","all", "mean", "none",2
 "ocean_model","SSH","SSH","ocean_hourly","all", "mean", "none",2
 "ocean_model","SSS","SSS","ocean_hourly","all", "mean", "none",2
 "ocean_model","SST","SST","ocean_hourly","all", "mean", "none",2
-"ocean_model","uo","uo","ocean_hourly","all", "mean", "none",2
-"ocean_model","vo","vo","ocean_hourly","all", "mean", "none",2
-"ocean_model","thetao","thetao","ocean_hourly","all", "mean", "none",2
-"ocean_model","thkcello","thkcello","ocean_hourly","all", "mean", "none",2
+"ocean_model","uo","uo","ocean_daily","all", "mean", "none",2
+"ocean_model","vo","vo","ocean_daily","all", "mean", "none",2
+"ocean_model","thetao","thetao","ocean_daily","all", "mean", "none",2
+"ocean_model","thkcello","thkcello","ocean_daily","all", "mean", "none",2
