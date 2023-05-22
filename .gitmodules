@@ -22,3 +22,6 @@
 [submodule "src/icebergs"]
 	path = src/icebergs
 	url = git@github.com:NOAA-GFDL/icebergs.git
+[submodule "src/land_null"]
+	path = src/land_null
+	url = git@github.com:NOAA-GFDL/land_null.git
