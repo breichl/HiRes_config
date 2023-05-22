@@ -4,3 +4,6 @@
 [submodule "src/FMS2"]
 	path = src/FMS2
 	url = git@github.com:NOAA-GFDL/FMS.git
+[submodule "src/MOM6"]
+	path = src/MOM6
+	url = git@github.com:NOAA-GFDL/MOM6.git
