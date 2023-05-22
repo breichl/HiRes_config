@@ -10,3 +10,6 @@
 [submodule "src/SIS2"]
 	path = src/SIS2
 	url = git@github.com:NOAA-GFDL/SIS2.git
+[submodule "src/atmos_null"]
+	path = src/atmos_null
+	url = git@github.com:NOAA-GFDL/atmos_null.git
