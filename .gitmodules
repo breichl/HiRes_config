@@ -13,3 +13,6 @@
 [submodule "src/atmos_null"]
 	path = src/atmos_null
 	url = git@github.com:NOAA-GFDL/atmos_null.git
+[submodule "src/FMScoupler"]
+	path = src/coupler
+	url = git@github.com:NOAA-GFDL/FMScoupler.git
