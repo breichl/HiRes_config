@@ -1,0 +1,10 @@
+OM4_SIS2_cgrid_05
+1958 1 1 0 0 0
+
+"ocean_hourly", 2, "hours",   1, "days", "time"
+
+ "ocean_model",   "taux",    "taux",         "ocean_hourly",        "all", "mean", "none",2
+ "ocean_model",   "tauy",    "tauy",         "ocean_hourly",        "all", "mean", "none",2
+ "ocean_model",   "surface_stokes_x",    "surface_stokes_x",         "ocean_hourly",        "all", "mean", "none",2
+ "ocean_model",   "surface_stokes_y",    "surface_stokes_y",         "ocean_hourly",        "all", "mean", "none",2
+
